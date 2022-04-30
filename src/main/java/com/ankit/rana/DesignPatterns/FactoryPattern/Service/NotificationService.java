@@ -1,8 +1,8 @@
-package com.ankit.rana.DesignPatterns.factoryPattern.Service;
+package com.ankit.rana.DesignPatterns.FactoryPattern.Service;
 
 
-import com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethod.Notification;
-import com.ankit.rana.DesignPatterns.factoryPattern.ObjectFactory.NotificationFactory;
+import com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethod.Notification;
+import com.ankit.rana.DesignPatterns.FactoryPattern.ObjectFactory.NotificationFactory;
 
 public class NotificationService {
     public static void main(String[] args) {

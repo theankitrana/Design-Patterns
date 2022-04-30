@@ -1,9 +1,9 @@
-package com.ankit.rana.DesignPatterns.factoryPattern.ObjectFactory;
+package com.ankit.rana.DesignPatterns.FactoryPattern.ObjectFactory;
 
-import com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethod.Notification;
-import com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethodImpl.EmailNotification;
-import com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethodImpl.PushNotification;
-import com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethodImpl.SMSNotification;
+import com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethod.Notification;
+import com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethodImpl.EmailNotification;
+import com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethodImpl.PushNotification;
+import com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethodImpl.SMSNotification;
 
 public class NotificationFactory {
 

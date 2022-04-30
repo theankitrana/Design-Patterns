@@ -1,6 +1,6 @@
-package com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethodImpl;
+package com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethodImpl;
 
-import com.ankit.rana.DesignPatterns.factoryPattern.FactoryMethod.Notification;
+import com.ankit.rana.DesignPatterns.FactoryPattern.FactoryMethod.Notification;
 
 public class SMSNotification implements Notification {
     @Override
